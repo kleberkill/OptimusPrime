@@ -1,4 +1,4 @@
-Copyright 2015 - The Optimus Project
+Copyright 2016 - The Optimus Project
 
 Device configuration for LGE Optimus G (International)
 =====================================
